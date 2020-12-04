@@ -14,3 +14,4 @@ I'm a javascript developer, with more focus on backend, but I also venture into 
 
 ### Projects
 - [back-end challenge-nave <node.js>](https://github.com/Aldairbr/Backend-Challenge-Nave) 💻 - Test done for a selection of back-end developer node.js.
+- [goBarber <node.js>](https://github.com/Aldairbr/gobarber) 💻 - Backend of the rocketseat goBarber project developed

@@ -6,7 +6,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ExBronze)](https://twitter.com/ExBronze)
 [![whats](https://img.shields.io/badge/-Whatsapp-4CA143??style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=55+53+981037119)
 
-
+#### I'M OPEN TO WORK
+ I'm looking for a job as a Jr developer
 
 ### About me
 I'm a javascript developer, with more focus on backend, but I also venture into the frontend.

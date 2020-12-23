@@ -18,7 +18,7 @@ I'm a javascript developer, with more focus on backend, but I also venture into 
 
 <br/>
 
-##Activity
+## Activity
 
 <br/>
 

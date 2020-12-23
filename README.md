@@ -22,12 +22,12 @@ I'm a javascript developer, with more focus on backend, but I also venture into 
 
 <br/>
 
-<p align="center">
+<p align="left">
  <img src="https://github-readme-stats.vercel.app/api?username=aldairbr&show_icons=true&theme=dracula" alt="Aldairbr github stats" />
 </p>
  
 <br/>
  
-- [![Repos Badge](https://badges.pufler.dev/aldairbr/aldairbr)](https://badges.pufler.dev)
+<img src="https://badges.pufler.dev/visits/aldairbr/aldairbr" alt="visits"
  
 <br/>

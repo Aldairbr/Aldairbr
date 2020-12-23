@@ -23,7 +23,7 @@ I'm a javascript developer, with more focus on backend, but I also venture into 
 <br/>
 
 <p align="center">
- <img src=""https://github-readme-stats.vercel.app/api?username=aldairbr&show_icons=true&theme=dracula"" alt="Aldairbr github stats"
+ <img src="https://github-readme-stats.vercel.app/api?username=aldairbr&show_icons=true&theme=dracula" alt="Aldairbr github stats" />
 </p>
  
 <br/>

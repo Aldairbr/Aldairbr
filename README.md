@@ -28,6 +28,6 @@ I'm a javascript developer, with more focus on backend, but I also venture into 
  
 <br/>
  
-<img src="https://badges.pufler.dev/visits/aldairbr/aldairbr" alt="visits"
+<img src="https://badges.pufler.dev/visits/aldairbr/aldairbr" alt="visits" />
  
 <br/>

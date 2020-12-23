@@ -15,3 +15,19 @@ I'm a javascript developer, with more focus on backend, but I also venture into 
 ### Projects
 - [back-end challenge-nave <node.js>](https://github.com/Aldairbr/Backend-Challenge-Nave) 💻 - Test done for a selection of back-end developer node.js.
 - [goBarber <node.js>](https://github.com/Aldairbr/gobarber) 💻 - Backend of the rocketseat goBarber project developed
+
+<br/>
+
+##Activity
+
+<br/>
+
+<p align="center">
+ <img src=""https://github-readme-stats.vercel.app/api?username=aldairbr&show_icons=true&theme=dracula"" alt="Aldairbr github stats"
+</p>
+ 
+<br/>
+ 
+- [![Repos Badge](https://badges.pufler.dev/aldairbr/aldairbr)](https://badges.pufler.dev)
+ 
+<br/>
